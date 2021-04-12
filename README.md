@@ -13,7 +13,3 @@
 ### To run the bot:
 1) `npm i`
 2) Run in console - `node index.js`
-
-   
-
-
