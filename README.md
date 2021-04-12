@@ -1,3 +1,4 @@
+There's 2 folders with slightly different implementations. One uses aldi and the other uses currys as the example.
 
 ### To set up the bot
 1) Create discord server or join one that you already own.
