@@ -24,7 +24,7 @@ function watch(){
 
     cards.forEach(card => {
       // If Add to Basket button is interactive, send notification
-      if (card.querySelector('[data-is-buy-online="false"]')) { 
+      if (card.querySelector('[data-is-buy-online="true"]')) { 
         let href = url;
         return sendIt(href),console.log(href) 
       }
